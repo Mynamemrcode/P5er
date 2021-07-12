@@ -2,7 +2,7 @@ function preload() {
 }
 function setup() {
 canvas=createCanvas(1000,500);
-canvas.position(125,320);
+canvas.position(475,320);
 video = createCapture(VIDEO);
 video.hide();
 tint_clr = "";
