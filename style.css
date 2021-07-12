@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(45deg, #C33764 0%, #1D2671 100%);
+}
+button {
+    width: 100px;
+    height:30px;
+}
