@@ -14,6 +14,9 @@ tint(tint_clr);
 rect(0, 0, 5, 1000);
 rect(0, 0, 700, 5);
 rect(700, 0, 5, 1000);
+circle(0,0,20)
+circle(700,0,20)
+circle(700,1000,20)
 }
 function apply() {
     tint_clr = document.getElementById("filterinput").value;
